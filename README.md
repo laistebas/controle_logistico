@@ -21,13 +21,17 @@ Agregação: criação de tabelas dinâmicas para consolidar os KPIs de Peso Bru
 
 <img width="434" height="319" alt="Captura de tela 2026-03-16 165634" src="https://github.com/user-attachments/assets/e59e6304-9d9b-4b54-8aa9-c0953431427f" />
 
-📊 Dashboard e Insights
+📊 Dashboard e Inteligência de Dados
 
-Visão de Torre de Controle: KPI's macro (Volume, Peso, NF, Faturamento).
+O painel foi estruturado em uma Torre de Controle Logístico, segmentada para oferecer desde uma visão macroexecutiva até o detalhamento operacional:
 
-Monitoramento de OTIF: Gráficos de barra comparativos por transportadora.
+Visão Executiva (High-Level): monitoramento em tempo real dos indicadores de Faturamento, Peso Bruto e Volume Expedido, permitindo que a gestão visualize a escala da operação de forma imediata.
 
-Distribuição Geográfica: Mapa de volume por estado brasileiro.
+Gestão de Nível de Serviço (SLA): análise aprofundada de OTIF (On-Time In-Full). O dashboard permite identificar quais transportadoras possuem gargalos de entrega (On-Time) ou problemas de qualidade/avarias (In-Full), direcionando renegociações de contratos e ajustes operacionais.
+
+Análise de Sazonalidade e Tendências: gráficos temporais que demonstram a variação da demanda e da performance de entrega ao longo dos trimestres, facilitando o planejamento de capacidade para períodos de pico.
+
+Inteligência Geográfica: mapa interativo que destaca a capilaridade das vendas por estado, permitindo identificar regiões com alta volumetria mas baixo nível de serviço, auxiliando na redistribuição estratégica de cargas.
 
 
 <img width="596" height="331" alt="Dashboard controle de transporte" src="https://github.com/user-attachments/assets/607d6cf8-e85f-430a-b7aa-a3c632caf60e" />
